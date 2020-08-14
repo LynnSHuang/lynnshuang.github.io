@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World!
+date: 
 ---
 
 I want to dedicate this first blog post to all the data scientists, statisticians, machine learning engineers, and other number-crunching super troopers out there. Number-crunching is hungry work, so here's some food for thought:
