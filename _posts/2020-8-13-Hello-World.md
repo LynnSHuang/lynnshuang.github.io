@@ -3,7 +3,7 @@ layout: post
 title: Hello World!
 ---
 
-I want to dedicate this first blog post to all the data scientists, statisticians, machine learning engineers, and other number-crunching super troopers out there. Number-crunching is hungry work, so here's some food for thought:
+I want to dedicate this first blog post to all the data scientists, statisticians, machine learning engineers, and other number-crunching super troopers out there. Number-crunching is hungry work, so here's some food for thought:  
 [This is the difference between statistics and data science](https://mixpanel.com/blog/this-is-the-difference-between-statistics-and-data-science)  
 [Data Science vs. Data Analytics vs. Machine Learning: Expert Talk](https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article)  
 [Machine Learning Engineer vs. Data Scientist](https://www.springboard.com/blog/machine-learning-engineer-vs-data-scientist)  
