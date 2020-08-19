@@ -6,7 +6,7 @@ date: "August 18, 2020"
 permalink: /about/
 ---
 
-### Education  
+### Who's Lynn?
 I graduated from Dartmouth College with a biology major and computer science minor, then worked as a research assistant at Wake Forest Medical Center in the Department of Biostatistical Sciences for three years. My three projects were:  
 * Staging chronic kidney disease by looking at creatinine lab results. What stage is a patient in? When do they transition from one stage to the next?
 * Phenotyping lung cancer using gene expression data
