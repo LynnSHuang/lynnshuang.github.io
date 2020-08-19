@@ -15,7 +15,7 @@ I graduated from Dartmouth College with a biology major and computer science min
 I recently started a new job at Blue Cross Blue Shield North Carolina as a Rotational Development Program Associate. I'll be rotating through three different divisions over the next two years. My first (and current) rotation is in Data and Analytics, where I will help model the progression of Type 2 Diabetes in our members.
 
 ### Where's Lynn?  
-If I'm not busy doing stats homework, you can find me in the hiking and backpacking in the woods. Sorry if response times are slow; they haven't upgraded the bears with WiFi yet.
+If I'm not busy *enthusiastically* doing stats homework, you can find me in hiking and backpacking in the woods. Sorry if response times are slow; they haven't upgraded the bears with WiFi yet.
 
 ### Contact  
 [E-mail](mailto:lynnshuang94@gmail.com)
