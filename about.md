@@ -17,4 +17,4 @@ I recently started a new job at Blue Cross Blue Shield North Carolina as a Rotat
 If I'm not busy doing stats homework, you can find me in the hiking and backpacking in the woods. Sorry if response times are slow; they haven't upgraded the bears with WiFi yet.
 
 ### Contact  
-[email@domain.com](mailto:lynnshuang94@gmail.com)
+[E-mail](mailto:lynnshuang94@gmail.com)
