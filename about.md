@@ -11,6 +11,7 @@ I graduated from Dartmouth College with a biology major and computer science min
 * Staging chronic kidney disease by looking at creatinine lab results. What stage is a patient in? When do they transition from one stage to the next?
 * Phenotyping lung cancer using gene expression data
 * Identifying pre-Alzheimer's patients for a lifestyle intervention study by the Alzheimer's Association
+
 I recently started a new job at Blue Cross Blue Shield North Carolina as a Rotational Development Program Associate. I'll be rotating through three different divisions over the next two years. My first (and current) rotation is in Data and Analytics, where I will help model the progression of Type 2 Diabetes in our members.
 
 ### Where's Lynn?  
