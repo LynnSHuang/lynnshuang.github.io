@@ -19,3 +19,9 @@ If I'm not busy doing stats homework, you can find me hiking and backpacking in 
 
 ### Contact  
 [E-mail](mailto:lynnshuang94@gmail.com)
+
+### Fancy Table
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
