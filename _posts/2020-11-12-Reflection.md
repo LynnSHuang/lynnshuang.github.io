@@ -3,7 +3,7 @@ layout: post
 title: Reflection
 ---
 
-Here's the link to the first blog post I made [Hello World!](https://lynnshuang.github.io/Hello-World/). To say the least, it's been a very eventful term and my perspective on many things (data science included!) has changed a lot.  
+Here's the link to the first blog post I made [Hello World!](https://lynnshuang.github.io/Hello-World/) To say the least, it's been a very eventful term and my perspective on many things (data science included!) has changed a lot.  
 
 #### What (if anything) has changed about what you think a data scientist is and what they do?  
 I've gotten to know the data scientists at my job at Blue Cross Blue Shield North Carolina much better, and also done a bit of data science work myself. My current project is trying to model diabetes progression in our members, using a combination of claims, prescriptions, lab results, vital signs, health risk assessments to identify pre-diabetic, diabetic, and diabetic + complications stages. I'm fortunate to have done a bit of disease modeling work previously at Wake Forest, but that was certainly much simpler! I can't believe I ever thought that data was messy; it's been such a mess trying to find which prescriptions and what amounts might count as diabetes usage or off-label usage. Turns out the role of a data scientist is truly the happy marriage of domain knowledge (I spent a week looking up drugs) and analytical skills.  
